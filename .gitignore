@@ -41,7 +41,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/target
-*.iml
-.idea/
-*.log
+#/target
+#*.iml
+#.idea/
+#*.log
+
+src/main/resources/application.yml
